@@ -8,12 +8,12 @@
 
 <h3>To setup:</h3>
 ```
-$pip install django			#installs django
-$pip install django-webpack-loader	#installs webpack integration with django
-$npm init				#inits npm
-$npm install 				#this should install all the npm packages in package.json
-$/node_modules/.bin/webpack --config webpack.config.js	#this will compile your jsx files into js files according to webpack.config.js
-$node server.js				#React components will be served by a node server, defaulting from port 3000
+$pip install django			#installs django  
+$pip install django-webpack-loader	#installs webpack integration with django  
+$npm init				#inits npm  
+$npm install 				#this should install all the npm packages in package.json  
+$/node_modules/.bin/webpack --config webpack.config.js	#this will compile your jsx files into js files according to webpack.config.js  
+$node server.js				#React components will be served by a node server, defaulting from port 3000  
 
 ```
 
