@@ -1,10 +1,10 @@
-<h1>===========================</h1>
+<h6>===========================</h6>
 <h1> Template for Django-React </h1>
-<h1>===========================</h1>
+<h6>===========================</h6>
 <br/>
 <h3>The Django DRF for REST calls, and nodejs server serving React pages</h3>
 <h3>Webpack + npm for the management of node/react modules </h3>
-<h3>~~~~~~~~~~~~~~~~~~~~~</h3><br/>
+<h3>-------------------------------------------------------------------------</h3><br/>
 
 <h3>Project Name: streak </h3>
 <h3>Application name: streaker</h3>
