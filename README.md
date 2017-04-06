@@ -1,6 +1,6 @@
-<h6>===========================</h6>
+<h4>==================================================================</h4>
 <h1> Template for Django-React </h1>
-<h6>===========================</h6>
+<h4>==================================================================</h4>
 <br/>
 <h3>The Django DRF for REST calls, and nodejs server serving React pages</h3>
 <h3>Webpack + npm for the management of node/react modules </h3>
